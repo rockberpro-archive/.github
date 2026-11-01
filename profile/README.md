@@ -2,8 +2,6 @@
   <img src="img/rockberpro-dev.png" alt="RockberPro" width="200">
 </p>
 
-<h1 align="center">RockberPro</h1>
-
 <p align="center">Stable, battle-tested tools from my daily work, published for anyone to use.</p>
 
 ## Projects
